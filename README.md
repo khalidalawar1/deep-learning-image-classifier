@@ -31,7 +31,6 @@ Provide image_dir, save_dir, architecture, hyperparameters such as
 learningrate, num of hidden_units, epochs and whether to use gpu or not
 
 optional arguments:
-  -h, --help            show this help message and exit
   DATA_DIR   path to image folder
   --save_dir SAVE_DIR   the place model checkpoints gets saved to, defaults to 'assets' directory
   --arch ARCH           2 options: vgg13 or vgg16
