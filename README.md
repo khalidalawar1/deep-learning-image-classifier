@@ -16,7 +16,7 @@ In general, the usage of this program consists of training the neural network mo
 
 ### Example Command
 ```
-python train.py flowers/x` --arch vgg16 --hidden_units 4096 --epochs 5 --learning_rate 0.001 --gpu true --save_dir checkpoint.pth
+python train.py flowers/ --arch vgg16 --hidden_units 4096 --epochs 5 --learning_rate 0.001 --gpu true --save_dir checkpoint.pth
 ```
 
 ### Input, Arguments, and Options
